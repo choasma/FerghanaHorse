@@ -1,0 +1,256 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.5.1)  16 JAN 2017 11:04
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**thes.tex
+(./thes.tex
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo
+File: bk12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (./vuwthesis.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/palatino.sty
+Package: palatino 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+No file thes.aux.
+\openout1 = `thes.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Try loading font information for OT1+ppl on input line 14.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ppl.fd
+File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
+)
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <20.74> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 43.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 43.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 43.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 43.
+ [-1
+
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [0
+
+]
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 43.
+ [1]
+\openout2 = `thesis-acknowledge.aux'.
+
+ (./thesis-acknowledge.tex [2
+
+
+]
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <24.88> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1.
+)
+[3] [4
+
+
+]
+No file thes.toc.
+\tf@toc=\write3
+\openout3 = `thes.toc'.
+
+[5] [6
+
+]
+\openout2 = `thesis-introduction.aux'.
+
+ (./thesis-introduction.tex
+Chapter 1.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 2.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1phv.fd
+File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
+)
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 4.
+
+
+LaTeX Warning: Reference `C:ex' on page 1 undefined on input line 4.
+
+
+LaTeX Warning: Reference `C:lib' on page 1 undefined on input line 5.
+
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 10.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)) [1
+
+
+]
+\openout2 = `thestyle.aux'.
+
+ (./thestyle.tex [2
+
+
+
+]
+Chapter 2.
+LaTeX Font Info:    Try loading font information for OMS+ppl on input line 5.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsppl.fd
+File: omsppl.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 5.
+
+Overfull \hbox (5.36012pt too wide) in paragraph at lines 8--9
+[]\OT1/ppl/m/n/12 an ab-stract us-ing []\OT1/pcr/m/n/12 \abstract{}\OT1/ppl/m/n
+/12 -- this should be fewer then 500 words
+ []
+
+
+Overfull \hbox (28.5198pt too wide) in paragraph at lines 15--16
+[][]\OT1/pcr/m/n/12 \mscwithhonours\OT1/ppl/m/n/12 , which pro-duces ``...in pa
+r-tial ful-fil-ment of ...Master
+ []
+
+
+Overfull \hbox (14.11981pt too wide) in paragraph at lines 16--17
+[][]\OT1/pcr/m/n/12 \mscbothparts\OT1/ppl/m/n/12 , which pro-duces ``...in par-
+tial ful-fil-ment of ...Master
+ []
+
+[3]
+Overfull \hbox (21.24956pt too wide) in paragraph at lines 17--18
+[][]\OT1/pcr/m/n/12 \otherdegree{DEGREE OR DIPLOMA NAME}\OT1/ppl/m/n/12 , which
+ pro-duces ``...in
+ []
+
+) [4]
+\openout2 = `library.aux'.
+
+ (./library.tex
+Chapter 3.
+[5
+
+
+
+]
+
+LaTeX Warning: Citation `GMS94' on page 6 undefined on input line 24.
+
+
+Overfull \hbox (32.46718pt too wide) in paragraph at lines 24--25
+[]\OT1/ppl/m/n/12 To set any-thing else use, e.g []\OT1/pcr/m/n/12 \renewcomman
+d{\baselinestretch}{1.0}
+ []
+
+) [6]
+\openout2 = `binding.aux'.
+
+ (./binding.tex
+Chapter 4.
+) [7
+
+
+
+]
+\openout2 = `lipsum.aux'.
+
+ (./lipsum.tex [8
+
+
+
+]
+Chapter 5.
+
+Overfull \hbox (13.84859pt too wide) in paragraph at lines 4--4
+[]\OT1/ppl/b/n/17.28 The stan-dard Lorem Ip-sum pas-sage, used since
+ []
+
+
+Overfull \hbox (12.63927pt too wide) in paragraph at lines 7--7
+[]\OT1/ppl/b/n/17.28 Section 1.10.32 of ``de Finibus Bono-rum et Mal-
+ []
+
+[9]
+Overfull \hbox (12.63927pt too wide) in paragraph at lines 13--13
+[]\OT1/ppl/b/n/17.28 Section 1.10.33 of ``de Finibus Bono-rum et Mal-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10])
+Overfull \hbox (164.58243pt too wide) has occurred while \output is active
+\OT1/ppl/m/sl/12 5.4.  SECTION 1.10.33 OF ``DE FINIBUS BONORUM ET MALORUM'', WR
+ITTEN BY CICERO IN 45 BC \OT1/ppl/m/n/12 11
+ []
+
+[11] [12]
+\openout2 = `thesis-conclusion.aux'.
+
+ (./thesis-conclusion.tex
+Chapter 6.
+) [13
+
+
+
+]
+No file thes.bbl.
+(./thes.aux (./thesis-acknowledge.aux) (./thesis-introduction.aux)
+(./thestyle.aux) (./library.aux) (./binding.aux) (./lipsum.aux)
+(./thesis-conclusion.aux))
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 554 strings out of 493029
+ 6797 string characters out of 6136235
+ 58442 words of memory out of 5000000
+ 4092 multiletter control sequences out of 15000+600000
+ 19421 words of font info for 48 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 25i,4n,20p,1029b,210s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/pa
+latino/uplb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8
+a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on thes.pdf (21 pages, 113685 bytes).
+PDF statistics:
+ 101 PDF objects out of 1000 (max. 8388607)
+ 70 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
